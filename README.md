@@ -6,12 +6,12 @@ Meine Noten sind okay, ich habe sowohl gute als auch schlechte Noten. Ich will d
 
 23.4.2024
 - [ ] Da ich am Donnerstag eine Modul Abgabe habe, konzentriere ich mich heute auf dieses. Ich habe viele Teilweise fertige Aufträge und will heute mindestens 10 davon komplett abschliessen.
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich im Modul 106 an SQL Servern gearbeitet und bin nun bei Auftrag 20, ich habe insgesamt 15 Aufträge abgeschlossen.
 
 30.4.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
+[ ] Ich installiere VS Code und erkundige mich wie die Software funktioniert
+[ ] Ich schaue mir eine Einführung zu HTML & CSS an
+[ ] Ich erstelle eine einfache Website auf GitHub über mein persönliches Leben.
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
