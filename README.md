@@ -9,9 +9,10 @@ Meine Noten sind okay, ich habe sowohl gute als auch schlechte Noten. Ich will d
 ✍️ Heute habe ich im Modul 106 an SQL Servern gearbeitet und bin nun bei Auftrag 20, ich habe insgesamt 15 Aufträge abgeschlossen.
 
 ## 30.4.2024
-- [ ] Ich installiere VS Code und erkundige mich wie die Software funktioniert
-- [ ] Ich schaue mir eine Einführung zu HTML & CSS an
-- [ ] Ich erstelle eine einfache Website auf GitHub über mein persönliches Leben.
+- [x] Ich installiere VS Code und erkundige mich wie die Software funktioniert
+- [x] Ich schaue mir eine Einführung zu HTML & CSS an
+- [x] Ich erstelle eine einfache Website auf GitHub über mein persönliches Leben.
 ✍️ Heute habe ich... (50-100 Wörter)
+Ich habe heute videos zu [https://www.youtube.com/watch?v=Z4pCqK-V_Wo](CSS) und [https://www.youtube.com/watch?v=salY_Sm6mv4](HTML) angeschaut und habe in VS Code damit eine einfache Website gebaut. Heute habe ich eher experimentiert und neue features ausprobiert.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
