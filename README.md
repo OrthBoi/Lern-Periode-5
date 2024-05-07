@@ -16,7 +16,9 @@ Meine Noten sind okay, ich habe sowohl gute als auch schlechte Noten. Ich will d
 Ich habe heute videos zu [https://www.youtube.com/watch?v=Z4pCqK-V_Wo](CSS) und [https://www.youtube.com/watch?v=salY_Sm6mv4](HTML) angeschaut und habe in VS Code damit eine einfache Website gebaut. Heute habe ich eher experimentiert und neue features ausprobiert.
 
 ## 07.05.2024
-- [ ] Ich will mit CSS meine Website verschönern
-- [ ] Ich möchte meine Website vervollständigen mit Bildern
+- [ ] Ich will mit CSS den Titel meiner Website gestalten, ich will für jedes Abteil einen Tab machen damit alles ordentlicher aussieht.
+- [ ] Ich will die individuellen Tabs mit CSS verschönern mit Farbe, Hintergrundbilder usw.
+- [ ] Ich möchte meiner Website passende Bilder hinzufügen und diese mit CSS anpassen.
+- [ ] Ich möchte meiner Website ein Logo in der Tab Bar einfügen.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
