@@ -1,58 +1,110 @@
 <!DOCTYPE html>
 
+<!--
+  Hello, this is my first HTML & CSS Website, 
+  i will use this Site as a learning tool and form of saving importent informations to further aid me in my learning process.
+  I will write comments to safe important parts of codes which my future self can copy and make his life easier.
+  I hope you enjoy my website, have a great day future self!
+-->
+
 <html>
   <head>
     <title>Orthboi's Website</title>
     <link rel="stylesheet" href="style.css" />
   </head>
-  <body>
-    <h1 class="introduction">Thanks for visiting my personal Website :D</h1>
-    <h2>
-      My name is Maxim, also known online as the alias
-      <a href="https://github.com/OrthBoi">Orthboi</a>. <br />
-      On this Site you will get to know more about me.
-    </h2>
-    <hr class="firstLine" />
-    <h3 class="WhoAmI">
-      Who even am i? </h3>
-      <p>
-        My name's Maxim and im 16 years old. I was born on the 10th of October
-        2007 in Leuggern and live in a small village called
-        <a href="https://maps.app.goo.gl/TgEEbDfobT3yiNcW6">Rekingen</a>.
-      </p>
-    <hr />
-    <h3 class="profession">
-      My profession
-      <h4>
-        Im a student Programmer at the Berufs-Bildungsschule in Baden, as of
-        today i programm using following languages: <br />
-        <ol>
-          <li>C#</li>
-          <li>HTML & CSS</li>
-          <li>A bit of Javascript</li>
-        </ol>
-      </h4>
-    </h3>
-    <hr />
-    <h3>
-      My education background
-      <h4>
-        I went to primary school in Rekingen, then went to the Oberstufe in Bad
-        Zurzach. I was in the Bez for one year, but then sadly fell into the Sek
-        which i finished as the class's best. <br />As of now i go to the Kanti
-        in Baden.
-      </h4>
-    </h3>
-    <hr />
-    <h3>
-      My family and background
-      <h4>
-        I have a loving mother, father and an older brother. <br />Im of russian
-        descent but was born and lived my whole life in switzerland. <br />My
-        Parents travelled a long one to europe once the Soviet Union fell and
-        things became dangerous. <br />Doing that they lived in the Netherlands,
-        Germany and settled in Switzerland as a permanent residence.
-      </h4>
-    </h3>
+  <body id="body">
+
+    <!--Main Page-->
+    <div class="segments" id="titel_segment">
+      <h1 id="introduction">Hello World! Welcome to my page!</h1>
+      <h2 id="sub-introduction">
+        My name is Maxim, also known online as the alias
+        <a href="https://github.com/OrthBoi">Orthboi</a>. <br />
+        On this Site you will get to know more about me.
+      </h2>
+
+      <!--
+        How to add Pictures with a Text under it in a Div
+      You need a main Div which you can name titleimage for example, you will use this class, id etc to modify it in CSS.
+      Then add a imageWrapper and put ur picture and text in there.
+      -->
+      <div class="titleimage">
+        <div class="imgWrapper">
+            <img src="images/MeAtChristTheSaviorCathedral.jpg" width="250" height="250" alt="Me in moscow"/>
+            <p>This was me in Moscow 2023 <br> I'm Orthodox Christian and i try <br> to shape my life around <br> God's Word</p>
+        </div>
+      </div>
+
+      </div>
+
+   
+    <!--About me page-->
+    <div class="segments" id="about_segment">
+      <h3 id="about">
+        Basic Info's about me </h3>
+        <p>
+          My name's Maxim and I was born on the 10th of October
+          2007 in Leuggern. <br> I live in a small village called
+          <a href="https://maps.app.goo.gl/TgEEbDfobT3yiNcW6">Rekingen</a>.
+        </p>
+    </div>
+
+    <!--Proffesion page-->
+    <div class="segments" id="profession_segment">
+      <h3 id="profession">
+        My profession
+        <h4>
+          Im a student Programmer at the Berufs-Bildungsschule in Baden, as of
+          today i programm using following languages: <br />
+          <ol>
+            <li>C#</li>
+            <li>HTML & CSS</li>
+            <li>SQL</li>
+            <li>A bit of Javascript</li>
+          </ol>
+        </h4>
+      </h3>
+      <p>Why did i choose IT to beginn with? Well, first of all my father is a programmer so he played a big role, <br> 
+        but i also like to build my own stuff. I like IT because it is logical and straight forward. <br>
+      So speaking of that, im a logical person. <br>
+      Im a bit creative at times but mostly enjoy clear environments and boundries.</p>
+    </div>
+
+    <!--Education page-->
+    <div class="segments" id="education_segment">
+      <h3>
+        My education background
+        <h4>
+          I went to primary school in Rekingen, then went to the Oberstufe in <a href="https://maps.app.goo.gl/3pDKkvheneQ71qct7">Bad Zurzach</a>
+          . I was in the Bez for one year, but then sadly fell into the Sek
+          which i finished as the class's best. <br />As of now i go to the <a href="https://maps.app.goo.gl/1HqJvqNceZmVQXoA8">Kantonsschule
+            Baden</a>.
+        </h4>
+      </h3>
+    </div>
+
+    <!--family page-->
+    <div class="segments" id="family_segment">
+      <h3>
+        My family and background
+        <h4>
+          I have a loving mother which works in my primary school in Rekingen, <br> a father who works as a programmer for UBS, <br> and an older brother that has his own company and works part time as the chief for a swiss protection Firm. 
+          <br />Im of russian descent but was born and lived my whole life in switzerland. <br />My
+          Parents travelled a long way to europe once the Soviet Union fell and
+          things became dangerous. <br />Doing that they lived in the Netherlands,
+          Germany and settled in Switzerland as a permanent residence.
+        </h4>
+      </h3>
+    </div>
+
+    <div>
+      <h3>
+        My hobbies and interests
+        <h4>
+          I like quite a few things
+        </h4>
+      </h3>
+    </div>
+
   </body>
 </html>

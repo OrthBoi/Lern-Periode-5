@@ -1,0 +1,66 @@
+#body
+{
+    font-family: cursive;
+}
+#sub-introduction 
+{
+    float: left;
+}
+
+
+.titleimage
+{
+    float:right;
+}
+
+/* I dont like how the background looks like currently, i've got the presets ready but will leave it to a later date when i'll be adding Tabs for diffrent sides.*/
+
+.segments
+{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50;
+    padding: 20px;
+    overflow:hidden;
+}
+
+#about_segment
+{
+    
+    color: black; /* Fill color */
+  text-shadow: -1px -1px 0 white,  
+               1px -1px 0 white,
+               -1px 1px 0 white,
+               1px 1px 0 white; /* Outline */ 
+}
+
+#profession_segment
+{
+    
+    color: black; /* Fill color */
+  text-shadow: -1px -1px 0 white,  
+               1px -1px 0 white,
+               -1px 1px 0 white,
+               1px 1px 0 white; /* Outline */
+}
+
+#education_segment
+{
+    
+    color: black; /* Fill color */
+  text-shadow: -1px -1px 0 white,  
+               1px -1px 0 white,
+               -1px 1px 0 white,
+               1px 1px 0 white; /* Outline */ 
+}
+
+#family_segment
+{
+    
+    color: black; /* Fill color */
+  text-shadow: -1px -1px 0 white,  
+               1px -1px 0 white,
+               -1px 1px 0 white,
+               1px 1px 0 white; /* Outline */ 
+}
