@@ -25,8 +25,14 @@ Heute habe ich mit CSS meine Website designed. Ich habe nachgeschaut wie man Tab
 
 ## 14.05.2024
 - [ ] Ich möchte zu jedem Segment ein titel block einfügen
-- [ ] Ich möchte passende bilder in jedes Segment einfügen
-- [ ] ich möchte meine Website mit allen meinen persönlichen informationen vervollständigen
+- [x] Ich möchte passende bilder in jedes Segment einfügen
+- [x] ich möchte meine Website mit allen meinen persönlichen informationen vervollständigen
 - [ ] ich möchte ein footer hinzufügen
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+Heute habe ich wiedermals ein wenig herum experimentiert und das Layout meiner Website noch ein wenig angepasst. Ich habe Bilder hinzugefügt und mir ein gutes Design überlegt welches ich mit CSS umsetzten will.
+
+## 21.05.2024
+- [ ] Ich möchte meine Website kompakter gestlaten, Divs nebeneinander packen damit ich nicht so viel ungebrauchten Platz haben.
+- [ ] Ich möchte einen Footer hinzufügen
+- [ ] Ich möchte im Tab ein Logo einfügen
+- [ ] Ich möchte Schöne Title Blöcke erstellen
