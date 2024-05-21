@@ -32,7 +32,15 @@ Heute habe ich mit CSS meine Website designed. Ich habe nachgeschaut wie man Tab
 Heute habe ich wiedermals ein wenig herum experimentiert und das Layout meiner Website noch ein wenig angepasst. Ich habe Bilder hinzugefügt und mir ein gutes Design überlegt welches ich mit CSS umsetzten will.
 
 ## 21.05.2024
-- [ ] Ich möchte meine Website kompakter gestlaten, Divs nebeneinander packen damit ich nicht so viel ungebrauchten Platz haben.
-- [ ] Ich möchte einen Footer hinzufügen
-- [ ] Ich möchte im Tab ein Logo einfügen
+- [x] Ich möchte meine Website kompakter gestlaten, Divs nebeneinander packen damit ich nicht so viel ungebrauchten Platz haben.
+- [x] Ich möchte einen Footer hinzufügen
+- [x] Ich möchte im Tab ein Logo einfügen
 - [ ] Ich möchte Schöne Title Blöcke erstellen
+
+Ich habe heute viel geschaft und meine Website kompakter gestaltet. Ich habe probleme mit dem Icon gehabt aber es am ende geschaft, beim Footer habe ich probleme dabei gehabt ein Div zu zentrieren. 
+
+## 28.05.2024
+- [ ] Ich möchte ein Hintergrundbild hinzufügen
+- [ ] Ich möchte mein Titel schöner gestalten
+- [ ] Ich möchte ein Knopf beim Footer programmieren
+- [ ] Ich möchte beim Footer ein Div für einen random generatoer hinzufügen
