@@ -40,6 +40,9 @@ Heute habe ich wiedermals ein wenig herum experimentiert und das Layout meiner W
 Ich habe heute viel geschaft und meine Website kompakter gestaltet. Ich habe probleme mit dem Icon gehabt aber es am ende geschaft, beim Footer habe ich probleme dabei gehabt ein Div zu zentrieren. 
 
 ## 28.05.2024
+LB Wiederholung
+
+## 03.06.2024
 - [ ] Ich möchte ein Hintergrundbild hinzufügen
 - [ ] Ich möchte mein Titel schöner gestalten
 - [ ] Ich möchte ein Knopf beim Footer programmieren
