@@ -43,7 +43,15 @@ Ich habe heute viel geschaft und meine Website kompakter gestaltet. Ich habe pro
 LB Wiederholung
 
 ## 03.06.2024
-- [ ] Ich möchte ein Hintergrundbild hinzufügen
-- [ ] Ich möchte mein Titel schöner gestalten
-- [ ] Ich möchte ein Knopf beim Footer programmieren
-- [ ] Ich möchte beim Footer ein Div für einen random generatoer hinzufügen
+- [x] Ich möchte ein Hintergrundbild hinzufügen
+- [x] Ich möchte mein Titel schöner gestalten
+- [x] Ich möchte ein Knopf beim Footer programmieren
+- [x] Ich möchte beim Footer ein Div für einen random generatoer hinzufügen
+
+Ein Hintergrundbild einzufügen war relativ einfach, jetz muss ich nurnoch ein passendes finden und meine Website darauf abstimmen. Zu meinen jetzigen Hintergrundbild habe ich mir gedacht würde ein Regenbogen verlaufender Titel passen. Zwei Knöpfe im Footer habe ich auch gemacht, zum einen habe ich somit mein Kontakt verschönert und einen Random Verse generator mit JavaScript gemacht wobei ich ein wenig hilfe von GPT nutzte.
+
+## 10.06.2024
+- [ ] Ich möchte meinen Bildern ein wenig mehr Zeit zuwenden damit diese mehr "poppen"
+- [ ] Ich möchte meinen Titel ein wenig Besser gestalten und den Text an mein Hintergrundbild anpassen
+- [ ] Ich möchte meinen Footer besser aussehen lassen mit mehr detail.
+- [ ] Ich möchte ein Header machen
