@@ -42,7 +42,7 @@ Ich habe heute viel geschaft und meine Website kompakter gestaltet. Ich habe pro
 ## 28.05.2024
 LB Wiederholung
 
-## 03.06.2024
+## 04.06.2024
 - [x] Ich möchte ein Hintergrundbild hinzufügen
 - [x] Ich möchte mein Titel schöner gestalten
 - [x] Ich möchte ein Knopf beim Footer programmieren
@@ -50,8 +50,27 @@ LB Wiederholung
 
 Ein Hintergrundbild einzufügen war relativ einfach, jetz muss ich nurnoch ein passendes finden und meine Website darauf abstimmen. Zu meinen jetzigen Hintergrundbild habe ich mir gedacht würde ein Regenbogen verlaufender Titel passen. Zwei Knöpfe im Footer habe ich auch gemacht, zum einen habe ich somit mein Kontakt verschönert und einen Random Verse generator mit JavaScript gemacht wobei ich ein wenig hilfe von GPT nutzte.
 
-## 10.06.2024
-- [ ] Ich möchte meinen Bildern ein wenig mehr Zeit zuwenden damit diese mehr "poppen"
-- [ ] Ich möchte meinen Titel ein wenig Besser gestalten und den Text an mein Hintergrundbild anpassen
-- [ ] Ich möchte meinen Footer besser aussehen lassen mit mehr detail.
-- [ ] Ich möchte ein Header machen
+## 11.06.2024
+- [x] Ich möchte meinen Bildern ein wenig mehr Zeit zuwenden damit diese mehr "poppen"
+- [x] Ich möchte meinen Titel ein wenig Besser gestalten und den Text an mein Hintergrundbild anpassen
+- [x] Ich möchte meinen Footer besser aussehen lassen mit mehr detail.
+- [x] Ich möchte ein Header machen
+
+Ich habe meine Titel Seite verbessert und sie simple designed. Meinen Bildern habe ich mehr Zeit zugewendet und habe diese nun so bearbeitet das sie nicht aus dem Gesamtbild herausstehen. Den Footer habe ich angepasst und mehr Informationen eingefügt bzw vervollständigt. Den Header habe ich nun schön vervollständigt. 
+
+## 18.06.2024
+- [x] Ich möchte meine Seite redesignen, mehr Divs einbauen und die Informationen aufteilen damit die Seite lesbarer wird
+- [x] Ich möchte eine Navigationsbar hinzufügen
+- [x] Ich möchte meine Seite in Unterseiten aufteilem
+- [ ]  Ich möchte auf jede Unterseite meine bereits existierenden Informationen einfügen
+
+Ich habe 5 Bereiche insgesamt eingefügt. Meine Seite ist nun viel simpler und lesbarer, Ausserdem habe ich eine Navigationsbar zu den verschiedenen Unterseiten eingefügt, muss aber noch all die Information in diese Einfügen und ein wenig anpassen.
+
+## 25.06.2024
+- [x] Ich möchte meine Seite anpassen damit sie responsive ist und auf jeder Browser grösse funktioniert
+- [ ] Ich möchte meine Seite auf verschiedenen Browsern und auf meinen Handy testen
+
+Heute habe ich meine Seite angepasst und sie responsive gemacht, zum Testen konnte ich auch kommen aber noch nicht auf allen Browsern.
+
+# Reflexion
+In dieser Lernperiode habe ich mich intensiv mit HTML und CSS auseinandergesetzt und viel dazu gelernt. Für mich war das ähnlich wie Microsoft Forms in Visual Studio, da man mit Baublöcken eine eigene Website "bauen" kann. Natürlich ist das viel schwieriger, bietet aber auch wesentlich mehr Möglichkeiten und ist dadurch auch viel cooler. Nun kann ich auch auf Websites mithilfe von "Inspect" verstehen, wie diese aufgebaut sind, und Anpassungen vornehmen. HTML und CSS sind wichtige Werkzeuge im Arsenal eines Informatikers und essenziell zu verstehen, um in der Branche voranzukommen. Somit kann ich zusammenfassend sagen, dass sich diese Lernperiode sehr gelohnt hat.
