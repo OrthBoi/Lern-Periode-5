@@ -72,5 +72,32 @@ Ich habe 5 Bereiche insgesamt eingefügt. Meine Seite ist nun viel simpler und l
 
 Heute habe ich meine Seite angepasst und sie responsive gemacht, zum Testen konnte ich auch kommen aber noch nicht auf allen Browsern.
 
+# Fertiges Projekt
+Mein Prijekt, eine eigene Website zu erstellen, habe ich abgeschlossen und viel dazu gelernt. Ich habe die wichtigsten Informationen eingefügt, um mich als person kennenzulernen. Ich habe ein simples Design genommen mit einem Weiss Orangen Farb Thema. Eine spezielle Funktion die ich auch eingefügt habe ist ein Knopf um einen zufälligen Bibel Verse anzuzeigen. Ausserdem hat es einen Knopf um mich direkt auf Outlook zu kontaktieren. 
+![Startseite Website](https://github.com/OrthBoi/Lern-Periode-5/assets/142886297/dd488283-caff-4621-9aad-6a55641dc83c)
+![Unterseite Website](https://github.com/OrthBoi/Lern-Periode-5/assets/142886297/4109ba26-12ba-4dbd-a335-c43f448a4695)
+![website](https://github.com/OrthBoi/Lern-Periode-5/assets/142886297/6ba91c93-adcb-4af3-97ec-80e5c315a4fc)
+
+
+
+
+
 # Reflexion
 In dieser Lernperiode habe ich mich intensiv mit HTML und CSS auseinandergesetzt und viel dazu gelernt. Für mich war das ähnlich wie Microsoft Forms in Visual Studio, da man mit Baublöcken eine eigene Website "bauen" kann. Natürlich ist das viel schwieriger, bietet aber auch wesentlich mehr Möglichkeiten und ist dadurch auch viel cooler. Nun kann ich auch auf Websites mithilfe von "Inspect" verstehen, wie diese aufgebaut sind, und Anpassungen vornehmen. HTML und CSS sind wichtige Werkzeuge im Arsenal eines Informatikers und essenziell zu verstehen, um in der Branche voranzukommen. Somit kann ich zusammenfassend sagen, dass sich diese Lernperiode sehr gelohnt hat.
+
+# Reflexion gesamtes Jahr
+## Was habe ich konkret gelernt? (Technisch)
+In meinen erstem Jahr als Informatiker habe ich vieles dazugelernt. Der Ablauf der Dinge die ich gelernt habe war auf jeden Fall nicht wie erwartet, da ich dachte wir würden uns länger auf ein Thema konzentrieren. Trotzdem war es interessant und ich habe mir ein Grundlegendes Verständnis von einem Informatiker geholt. Als erstes habe ich gelernt, wie ich überhaupt selbstständig effektiv arbeite. Ich habe mich mit C# beschäftigt und somit meine erste Programiersprache gelernt, am Anfang nur im Terminal, danach auch mithilfe von Forms in einer App. Ich habe mich mit Datenbanken auseinander gesetzt und weiss wie ich diese benutzte. Ich habe mich mit Hardware beschäftigt und weiss wie ein Arbeitsplatz aufgebaut ist, wie mein Computer funktioniert und was es braucht damit dieser funktioniert. Am Ende habe ich mich mit Scriptsprachen und Webdesign beschäftigt und dazu je ein Projekt erstellt. 
+Zusammenfassend kann ich nun sagen, dass ich nicht ein Spezialist in einen Thema bin, wie ich es mir vorgestellt habe, sondern ein grundlegendes Verständnis in vielen Themen besitzte. 
+
+## Was habe ich konkret gelernt? (Arbeitsweise)
+Der Wechsel von der Oberstufe, wo ich nur wenig selbstständig war, zu einer Schule in der man fast 100% selbstständig ist war am Anfang nicht so erfolgreich, aber wurde mit der Zeit ein wenig besser. Ich habe gelernt, was von mir erwartet wird und wie ich mich Verhalten soll. Dieses will ich in meinen kommenden Jahren verbessern, da ich noch weit von gut bin. 
+
+## Was möchte ich nächstes Jahr anders machen im LA?
+Nun, vom Thema her weiss ich natürlich noch nicht was auf mich zukommt, aber vom Verhalten her will ich mich mehr konzentrieren. Mehr im Zimmer arbeiten da ich sonst abgelenkt werde und nicht zu nah an meinen Kollegen sitzten. 
+
+## Was hat mir am LA gefallen?
+Am LA hat mir gefallen, das ich selbstständig an meinen Interessen arbeiten kann, oder auch an einen Modul wo ich hinten dran bin. Ich lerne den Umgang mit mir selbst und verbessere meine Arbeitsweise.
+
+## Was würde ich mir anders im LA wünschen?
+Eigentlich kann ich dazu nichts beitragen. Das LA soll ja ein Untericht sein, in dem jeder an seinen Persönlichen Programmier Interessen arbeitet und lernt selbstständig zu arbeiten. In dem Fall ist alles gut, wie es ist. 
